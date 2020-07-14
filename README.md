@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+
+![](https://visitor-badge.glitch.me/badge?page_id=sofakeer.sofakeer)
