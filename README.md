@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=sofakeer.sofakeer)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sofakeer)](https://github.com/anuraghazra/github-readme-stats)
